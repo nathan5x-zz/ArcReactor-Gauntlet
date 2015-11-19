@@ -1,5 +1,5 @@
 # ArcReactor-Gauntlet
-Controlling your lighting system in Ironman (Jarvis) style.
+Controlling a lighting system in Ironman (Jarvis) style.
 
 ### Small Intro
 We are planning to implement a gesture controlled lighting
