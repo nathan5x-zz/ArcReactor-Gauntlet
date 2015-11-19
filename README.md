@@ -12,3 +12,5 @@ consequent change. The lighting mechanism on itself would consist of a
 length strip of RGB LED lights. With the help of the gestures, we would
 be able to turn the lights on and off, control the brightness, increase
 or decrease the length of the strip that gets illuminated.
+
+[Proposal Document](https://github.com/nathan5x/ArcReactor-Gauntlet/blob/master/Docs/ArcReactor_Proposal.pdf)
