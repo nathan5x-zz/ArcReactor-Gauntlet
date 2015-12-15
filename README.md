@@ -13,7 +13,7 @@ We have implemented a gesture controlled lighting system. We have made a gauntle
 [Final Paper](https://github.com/nathan5x/ArcReactor-Gauntlet/blob/master/Docs/FinalPaper.pdf)
 
 #### Instructable Article
-[Instructable Article for Details Instructions](http://www.instructables.com/id/Ironmans-ArcReactor-Gauntlet-Light-Controlling-Sys/)
+[Instructable Article for detailed instructions](http://www.instructables.com/id/Ironmans-ArcReactor-Gauntlet-Light-Controlling-Sys/)
 
 #### Youtube Video for Demonstration
 [Ironman's Gauntlet and Repulsor](https://youtu.be/D1eNAbzzMB0)
@@ -25,16 +25,16 @@ Apart from having a nice visual effect, this glove can be used to control the li
 In this instructable article, we have explained how to make this gauntlet, laser repulsor, and also the lights which can be controlled. There’s quite a bit of 3D printing and laser-cutting involved. Basic knowledge of electronics and circuits is enough understand this article easily. We have also provided the code for programming the circuits and the lights.
 
 #### Components Required
-Breadboards - 2
-Sparkfun Triple-Axis Accelerometer
-RGB LED Strip: https://www.adafruit.com/products/1460
-RGB LED NeoPixel Ring : https://www.adafruit.com/products/1463
-Clear Cast Acrylic - 1 Sheets
-Particle Photon - 2
-5V Adapter
-3.7V Li-Ion Poly rechargeable battery
-Soft Ply Wood - 2 Sheets
-Connecting Wires.
+1. Breadboards - 2
+2. Sparkfun Triple-Axis Accelerometer
+3. RGB LED Strip: https://www.adafruit.com/products/1460
+4. RGB LED NeoPixel Ring : https://www.adafruit.com/products/1463
+5. Clear Cast Acrylic - 1 Sheets
+6. Particle Photon - 2
+7. 5V Adapter
+8. 3.7V Li-Ion Poly rechargeable battery
+9. Soft Ply Wood - 2 Sheets
+10. Connecting Wires.
 
 #### APIs Used
 Neopixel APIs from Adafruit
