@@ -46,5 +46,5 @@ Ironman's JARVIS :)
 #### General thoughts and how it can be improved.
 Add music! Add a speaker which will give out an addition “Whoosh” sound every time the laser repulsor fires up.
 
-Consider using an accelerometer with IMU like this: https://www.sparkfun.com/products/11028 . It’ll provide us with precise position data and will not rely entirely on acceleration alone to register an input
+Consider using an accelerometer with IMU like this: https://www.sparkfun.com/products/11028 . It’ll provide us with precise position data and will not rely entirely on acceleration alone to register an input.
 Use a thinner breadboard with thinner wires. Design a sleeker gauntlet. Thinner the better!
