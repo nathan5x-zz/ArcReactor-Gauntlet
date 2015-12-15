@@ -1,10 +1,10 @@
 # ArcReactor-Gauntlet
 Controlling a lighting system in Ironman (Jarvis) style.
 
-![Network Strength Simulation](/Images/GauntletDisplayBanner.jpg)
-
 ### Introduction
 We have implemented a gesture controlled lighting system. We have made a gauntlet and a laser repulsor. Our design is inspired by the one that Iron Man uses, and we have tried to replicate the design. We are calling this gauntlet-repulsor combination as the “Iron Man’s glove”. This glove is our gesture recognition device.The lights themselves are comprised of strips of programmable NeoPixel RGB LED Strips.We have made a replica design of the Golden Gate Bridge. We have arranged the strips along the design to create a nice visual effect. We are controlling these LED strips with the help of gestures. There’s quite a bit of 3D printing and laser-cutting involved.
+
+![Network Strength Simulation](/Images/GauntletDisplayBanner.jpg)
 
 [Proposal Document](https://github.com/nathan5x/ArcReactor-Gauntlet/blob/master/Docs/ArcReactor_Proposal.pdf)
 
