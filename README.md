@@ -6,20 +6,19 @@ We have implemented a gesture controlled lighting system. We have made a gauntle
 
 ![Network Strength Simulation](/Images/GauntletDisplayBanner.jpg)
 
-#### Proposal Document
+#### Proposal
 [Proposal Document](https://github.com/nathan5x/ArcReactor-Gauntlet/blob/master/Docs/ArcReactor_Proposal.pdf)
 
-#### Final Paper
+#### Final Report
 [Final Paper](https://github.com/nathan5x/ArcReactor-Gauntlet/blob/master/Docs/FinalPaper.pdf)
 
 #### Instructable Article
-[Instructable Article for detailed instructions](http://www.instructables.com/id/Ironmans-ArcReactor-Gauntlet-Light-Controlling-Sys/)
+[For detailed instructions on how to build](http://www.instructables.com/id/Ironmans-ArcReactor-Gauntlet-Light-Controlling-Sys/)
 
 #### Youtube Video for Demonstration
-[Ironman's Gauntlet and Repulsor](https://youtu.be/D1eNAbzzMB0)
+[Ironman's Gauntlet and Laser Repulsor](https://youtu.be/D1eNAbzzMB0)
 
-###How to control lights using the Iron Man’s Gauntlet:
-
+### How to control lights using the Iron Man’s Gauntlet:
 We have made a gauntlet and a laser repulsor. Our design is inspired by the one that Iron Man uses, and we have tried to replicate the design. We are calling this gauntlet-repulsor combination as the “Iron Man’s glove”.
 Apart from having a nice visual effect, this glove can be used to control the lights.
 In this instructable article, we have explained how to make this gauntlet, laser repulsor, and also the lights which can be controlled. There’s quite a bit of 3D printing and laser-cutting involved. Basic knowledge of electronics and circuits is enough understand this article easily. We have also provided the code for programming the circuits and the lights.
