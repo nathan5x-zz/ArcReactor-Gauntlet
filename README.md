@@ -1,19 +1,16 @@
 # ArcReactor-Gauntlet
 Controlling a lighting system in Ironman (Jarvis) style.
 
+![Network Strength Simulation](/Images/GauntletDisplayBanner.jpg)
+
 ### Introduction
-We are planning to implement a gesture controlled lighting
-mechanism. We are envisioning this system for indoor lighting purposes
-only. The gesture vocabulary would consist of waves and motions made
-with the palm. These gestures would be read with the help of the Iron
-Man’s Gauntlet. The “Laser Repulsor” in the palms would read the
-gestures and convey it to the system to trigger the appropriate,
-consequent change. The lighting mechanism on itself would consist of a
-length strip of RGB LED lights. With the help of the gestures, we would
-be able to turn the lights on and off, control the brightness, increase
-or decrease the length of the strip that gets illuminated.
+We have implemented a gesture controlled lighting system. We have made a gauntlet and a laser repulsor. Our design is inspired by the one that Iron Man uses, and we have tried to replicate the design. We are calling this gauntlet-repulsor combination as the “Iron Man’s glove”. This glove is our gesture recognition device.The lights themselves are comprised of strips of programmable NeoPixel RGB LED Strips.We have made a replica design of the Golden Gate Bridge. We have arranged the strips along the design to create a nice visual effect. We are controlling these LED strips with the help of gestures. There’s quite a bit of 3D printing and laser-cutting involved.
 
 [Proposal Document](https://github.com/nathan5x/ArcReactor-Gauntlet/blob/master/Docs/ArcReactor_Proposal.pdf)
+
+[Final Paper](https://github.com/nathan5x/ArcReactor-Gauntlet/blob/master/Docs/FinalPaper.pdf)
+
+[Instructable Articld for Details Instructions](http://www.instructables.com/id/Ironmans-ArcReactor-Gauntlet-Light-Controlling-Sys/)
 
 How to control lights using the Iron Man’s Gauntlet:
 
