@@ -36,9 +36,9 @@ In this instructable article, we have explained how to make this gauntlet, laser
 10. Connecting Wires.
 
 #### APIs Used
-[Neopixel APIs from Adafruit](https://github.com/adafruit/Adafruit_NeoPixel)
+1. [Neopixel APIs from Adafruit](https://github.com/adafruit/Adafruit_NeoPixel)
 
-[Particle Cloud APIs](https://docs.particle.io/reference/api/)
+2. [Particle Cloud APIs](https://docs.particle.io/reference/api/)
 
 #### Motivation
 Ironman's JARVIS :)
