@@ -16,7 +16,7 @@ We have implemented a gesture controlled lighting system. We have made a gauntle
 [Instructable Article for Details Instructions](http://www.instructables.com/id/Ironmans-ArcReactor-Gauntlet-Light-Controlling-Sys/)
 
 #### Youtube Video for Demonstration
-https://youtu.be/D1eNAbzzMB0
+[Ironman's Gauntlet and Repulsor](https://youtu.be/D1eNAbzzMB0)
 
 ###How to control lights using the Iron Man’s Gauntlet:
 
